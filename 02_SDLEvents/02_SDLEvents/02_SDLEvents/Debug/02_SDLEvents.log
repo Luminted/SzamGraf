@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\rlevente\desktop\szamgraf\02_sdlevents\02_sdlevents\02_sdlevents\main.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\rlevente\desktop\szamgraf\02_sdlevents\02_sdlevents\02_sdlevents\main.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\rlevente\desktop\szamgraf\02_sdlevents\02_sdlevents\02_sdlevents\main.cpp(148): error C2397: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\rlevente\desktop\szamgraf\02_sdlevents\02_sdlevents\02_sdlevents\main.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
